@@ -15,8 +15,6 @@ This project counts the number of people entering and exiting a room. Two switch
 - Increments and decrements count based on sensor/switch
 - Display on 2-digit 7-segment
 
-## Circuit Diagram
-![01-visitor-counter](../images/visitor-counter.png)
 
 ## Files Included
 - `visitor-counter.c` - Embedded C code
