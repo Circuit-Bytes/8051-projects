@@ -17,8 +17,8 @@ This project counts the number of people entering and exiting a room. Two switch
 
 
 ## Files Included
-- `visitor-counter.c` - Embedded C code
-- `visitor-counter.dsn` - Proteus file
+- `visitor counter.c` - Embedded C code
+- `visitor_counter.dsn` - Proteus file
 
 ## Concepts Used
 - Basic port and delay logic
