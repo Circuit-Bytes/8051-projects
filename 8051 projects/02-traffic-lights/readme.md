@@ -18,7 +18,6 @@ This project simulates a 4-way traffic light system using the AT89C51 microcontr
 ## Files Included
 - `traffic-light.c` - Source code written in Embedded C
 - `traffic-light.dsn` - Proteus simulation file
-- 'traffic-light.png'- circuit diagram 
 
 ## Concepts Used
 - Timer/Counter in 8051
